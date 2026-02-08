@@ -42,7 +42,7 @@ sudo systemctl enable vnstat
 1. Clone the Repository:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Nwatch.git](https://github.com/YOUR_USERNAME/Nwatch.git)
+git clone [https://github.com/0x-s0M3n4th/Nwatch.git](https://github.com/0x-s0M3n4th/Nwatch.git)
 cd Nwatch
 ```
 2. Configure System Directories:
